@@ -95,6 +95,9 @@
 			isa = PBXGroup;
 			children = (
 				CF0A0C2B2A254D5B007E955C /* Alt_VaultApp.swift */,
+				CF0A0C552A254E79007E955C /* Models */,
+				CF0A0C562A254E85007E955C /* ViewModels */,
+				CF0A0C572A254E90007E955C /* Views */,
 				CF0A0C2D2A254D5B007E955C /* ContentView.swift */,
 				CF0A0C2F2A254D5C007E955C /* Assets.xcassets */,
 				CF0A0C312A254D5C007E955C /* Preview Content */,
@@ -125,6 +128,27 @@
 				CF0A0C482A254D5C007E955C /* Alt_VaultUITestsLaunchTests.swift */,
 			);
 			path = "Alt VaultUITests";
+			sourceTree = "<group>";
+		};
+		CF0A0C552A254E79007E955C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CF0A0C562A254E85007E955C /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		CF0A0C572A254E90007E955C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
